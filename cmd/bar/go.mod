@@ -1,3 +1,3 @@
-module github.com/yakamon/junks/bar/cmd/bar
+module github.com/yakamon/bar/cmd/bar
 
 go 1.14
